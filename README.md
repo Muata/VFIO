@@ -1,10 +1,10 @@
 # VFIO
 Hardware:
-i7 4790
-GTX 1060
-16GB
-HOST: Arch Linux
-Guest: Win 10
+* i7 4790
+* GTX 1060
+* 16GB
+* Host: Arch Linux
+* Guest: Win 10
 
 # Wiki
 
