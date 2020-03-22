@@ -1,5 +1,10 @@
 # VFIO
-my VFIO setup i7 4790 / GTX 1060 / 16GB / Arch Linux / Win 10
+Hardware:
+i7 4790
+GTX 1060
+16GB
+HOST: Arch Linux
+Guest: Win 10
 
 # Wiki
 
