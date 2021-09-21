@@ -7,6 +7,4 @@ Hardware:
 * Guest: Win 10
 
 # Wiki
-
-More you can read here:
 https://github.com/Muata/VFIO/wiki
